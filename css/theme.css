@@ -1,0 +1,62 @@
+/* Scheme: https://coolors.co/a04661-e4e0da-a5978b-1a1412-848c8e */
+
+.jumbotron {
+  background-color: #E4E0DA !important;
+  color: #1A1412;
+  padding: 0.5em 0.6em;
+}
+
+.jumbotron > h1 {
+  font-size: 2em;
+}
+
+.jumbotron > p {
+  font-size: 1.2em;
+}
+
+.jumbotron > p > .btn {
+  padding: 0.5em;
+}
+
+.clucked-dark {
+  color: #833A50 !important;
+}
+
+.clucked-light {
+  color: #C2899A !important;
+}
+
+.bg-gray {
+  background-color: #D6CFCA !important;
+}
+
+.bg-gray-alternate {
+  background-color: #BBC0C1 !important;
+}
+
+.cluck {
+  margin: 0px;  /* 0px 10px 0px */
+  font-size: 1.125em;
+}
+
+.cluck-text {
+  margin: 0;
+  padding: 0;
+}
+
+.avatar {
+  margin: 10px;
+}
+
+.cluck .avatar {
+  float: left;
+}
+
+.logo {
+  font-size: 200px;
+  color: #796E66;
+}
+
+.mb0 {
+  margin-bottom: 0 !important;
+}

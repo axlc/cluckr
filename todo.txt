@@ -1,0 +1,41 @@
+Required: 
+
+  Implement Admin-Suite
+    User
+      Add
+      Edit
+      Delete
+
+    Cluck
+    	Add
+      Edit
+      Delete
+
+    Follower
+    	Add
+      Edit
+      Delete
+
+    All Tables
+      View
+      Search
+
+Nice Features to add, if there's time: 
+
+  Search:
+    Make it work with multiple space separated terms, instead of just one term
+
+  Add Timestamps to tweets?
+
+  Add to user profile:
+    How many users this user follows
+      Number will be a link to a new page that lists these users
+    How many users follow this user
+      Number will be a link to a new page that lists these users
+
+  Implement User Settings
+    avatar
+    change email
+    change password
+
+    All Tables View: Make the tables searchable: https://www.w3schools.com/howto/howto_js_filter_table.asp
